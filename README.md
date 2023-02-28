@@ -1,1 +1,1 @@
-readme file for project Binary trees BY John Chizaso Nkhata
+eadme file for project Binary trees BY John Chizaso Nkhata
